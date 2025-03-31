@@ -1,6 +1,3 @@
-Sure! Here's an improved version of your README file that’s clear, concise, and well-structured for your project:
-
----
 
 # Exploring Insights from Synthetic Airline Data Analysis with Qlik
 
@@ -88,8 +85,8 @@ The dashboard was designed with the following considerations:
 ## Demo Video
 
 A quick demo video showcasing the dashboard and its features is attached:  
-[**Airline.Analytics.Internship.mp4**]
 
----
 
-This README is more organized and concise, while still covering all the key aspects of the project. It makes it easy for anyone reviewing the project to understand the goals, the process, and the technical details behind it.
+
+https://github.com/user-attachments/assets/70b4f32b-bfed-4b73-93d7-bff0970d3e49
+
